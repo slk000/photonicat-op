@@ -14,7 +14,5 @@
 
 > Note:
 
->   Since rockchip does not release any code to power up their
-
->   device, disabled emmc for now until we can remove rkbin.
+>   Since rockchip does not release any code to power up their device, disabled emmc for now until we can remove rkbin.
 
